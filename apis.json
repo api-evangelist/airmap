@@ -1,0 +1,59 @@
+{
+    "name": "AirMap",
+    "description": "<p>AirMap is the leading provider of aeronautical intelligence and navigation services to unmanned aircraft, or drones. Developed by experts in technology, aviation, and policy, AirMap&rsquo;s cutting-edge technology transforms airspace below 500 feet to create an interconnected drone ecosystem. AirMap has a rapidly expanding global network of hundreds of partners and thousands of app users who leverage AirMap&rsquo;s accurate, reliable, and trustworthy airspace data and communication tools enable UAS safely and securely.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/airmap-logo.png",
+    "tags": [
+        "api provider",
+        "drones",
+        "have api",
+        "maps",
+        "no api definition"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/airmap\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "AirMap",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/airmap-logo.png",
+            "humanURL": "https:\/\/www.airmap.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/airmap-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/airmap-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.airmap.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.airmap.com\/feed\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/airmap"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/AirMapIO"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.airmap.com\/"
+        }
+    ]
+}
