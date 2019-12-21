@@ -9,8 +9,8 @@
         "maps",
         "no api definition"
     ],
-    "created": "2019-12-18",
-    "modified": "2019-12-18",
+    "created": "2019-12-20",
+    "modified": "2019-12-20",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/airmap\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -24,17 +24,21 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/airmap-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/airmap\/master\/airmap-openapi.json"
                 },
                 {
                     "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/airmap-postman-collection.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/airmap\/master\/airmap-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Blog",
             "url": "https:\/\/www.airmap.com\/blog\/"
