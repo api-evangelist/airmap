@@ -23,14 +23,14 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/airmap.png
 name: AirMap
-description: 'AirMap was a drone airspace-management and unmanned traffic management (UTM) platform
-  that provided airspace intelligence, flight planning, digital notice, and geofencing services for
-  drones and their operators, exposed through a developer platform of airspace and flight APIs. It was
-  surfaced as a portfolio company of bullpen-capital and added to the API Evangelist network as an
-  enrichment lead. As of this enrichment pass (2026-07) the company appears defunct: airmap.com no
-  longer serves a developer portal or API and now resolves to a parked Squarespace-hosted page with a
-  mismatched TLS certificate, and the legacy developer.airmap.com / api.airmap.com / docs.airmap.com
-  hosts no longer resolve. No live API surface remains to harvest.'
+description: 'AirMap was a drone airspace-management and unmanned traffic management (UTM) platform that
+  provided airspace intelligence, flight planning, digital notice, and geofencing services for drones
+  and their operators, exposed through a developer platform of airspace and flight APIs. It was surfaced
+  as a portfolio company of bullpen-capital and added to the API Evangelist network as an enrichment lead.
+  As of this enrichment pass (2026-07) the company appears defunct: airmap.com no longer serves a developer
+  portal or API and now resolves to a parked Squarespace-hosted page with a mismatched TLS certificate,
+  and the legacy developer.airmap.com / api.airmap.com / docs.airmap.com hosts no longer resolve. No live
+  API surface remains to harvest.'
 url: https://raw.githubusercontent.com/api-evangelist/airmap/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -40,7 +40,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-09-15'
 tags:
 - Company
 - Infrastructure
@@ -66,3 +66,4 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-status: defunct
